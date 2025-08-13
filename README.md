@@ -1,3 +1,14 @@
+# AImagenator<img src="ICON64.png"> <sub>（Support english only）</sub>
+<h3>
+  Ai image generator on local device
+  <hr>
+  Square(320x320), Portrait(256x384) and Landscape(384x256)
+</h3>
+<p>《Enquiries and Support》</p>
+Email：<a href="mailto:stevenfuture@icloud.com">stevenfuture@icloud.com</a>
+<br>
+Supported by：Steven FUNG
+
 【CreativeML Open RAIL-M 授權免責聲明】
 
 本應用使用了基于 CreativeML Open RAIL-M 授權的人工智能模型。該模型的使用受到以下限制：
