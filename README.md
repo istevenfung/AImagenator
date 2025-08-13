@@ -10,20 +10,6 @@ Email：<a href="mailto:stevenfuture@icloud.com">stevenfuture@icloud.com</a>
 Supported by：Steven FUNG
 
 
-【CreativeML Open RAIL-M 授權免責聲明】
-
-本應用使用了基于 CreativeML Open RAIL-M 授權的人工智能模型。該模型的使用受到以下限制：
-
-禁止用于生成或傳播非法、有害、歧視性、騷擾性或虚假内容。
-
-禁止用于侵犯他人隐私、俏像權、版權或其他合法權益。
-
-禁止用于監控、識别或軍事用途。
-
-所有生成内容僅供参考，開發者不對用户使用内容的後果承担責任。
-
-使用本應用即表示您同意遵守 CreativeML Open RAIL-M 授權條款。完整授權内容請参閱：CreativeML Open RAIL-M License。
-
 
 【CreativeML Open RAIL-M Authorization Disclaimer】
 
