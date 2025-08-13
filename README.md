@@ -4,6 +4,7 @@
   <hr>
   StableDiffusion CoreML converted model:
   
+  
   Square use SunshineMix at 320x320
   
   Portrait use Clarity at 256x384
