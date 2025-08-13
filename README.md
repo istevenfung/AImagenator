@@ -10,6 +10,8 @@
   Portrait use Clarity at 256x384
   
   Landscape use Project-AIO at 384x256
+
+  Save image with prompt in meta
 </h3>
 <p>《Enquiries and Support》</p>
 Email：<a href="mailto:stevenfuture@icloud.com">stevenfuture@icloud.com</a>
