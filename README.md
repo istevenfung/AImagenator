@@ -1,6 +1,6 @@
 # AImagenator<img src="ICON64.png"> <sub>（Support english only）</sub>
 <h3>
-  Ai image generator on local device
+  Ai image generator on local device (SFW)
   <hr>
   Square(320x320), Portrait(256x384) and Landscape(384x256)
 </h3>
@@ -8,6 +8,7 @@
 Email：<a href="mailto:stevenfuture@icloud.com">stevenfuture@icloud.com</a>
 <br>
 Supported by：Steven FUNG
+
 
 【CreativeML Open RAIL-M 授權免責聲明】
 
