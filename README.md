@@ -1,8 +1,3 @@
-1. 附带完整的授权副本（CreativeML Open RAIL-M License）。
-2. 明确告知用户模型的使用限制。
-3. 保留原始版权与归属信息。
-4. 标注你对模型的任何修改。
-
 【CreativeML Open RAIL-M 授權免責聲明】
 
 本應用使用了基于 CreativeML Open RAIL-M 授權的人工智能模型。該模型的使用受到以下限制：
