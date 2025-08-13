@@ -17,4 +17,5 @@
 Email：<a href="mailto:stevenfuture@icloud.com">stevenfuture@icloud.com</a>
 <br>
 Supported by：Steven FUNG
+
 StableDiffusion License - https://github.com/istevenfung/AImagenator/blob/main/Stable%20Diffusion%20License
