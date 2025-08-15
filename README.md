@@ -4,12 +4,7 @@
   <hr>
   StableDiffusion CoreML converted model:
   
-  
-  Square use SunshineMix at 320x320
-  
-  Portrait use Clarity at 256x384
-  
-  Landscape use Project-AIO at 384x256
+  Square only use Clarity at 320x320
 
   Save image with prompt in meta
 </h3>
